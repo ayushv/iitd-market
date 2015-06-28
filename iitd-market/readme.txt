@@ -4,6 +4,7 @@
 
 #work left for future...
 -some linking..
+-404.php...just show error.
 -removing echoes.. etc..
 -remember me - cookie use...
 -redirection to 404 and other..
